@@ -7,9 +7,9 @@
 4. 168323 Wambari Michael Rimu
 5. 166152 Precious Mwende Waweru
 ## Experiment A (https://wokwi.com/projects/467711131202275329)
-![[1 LCD.png|231]]
-![[1 Full.png|235]]
-![[1 Output.png|236]]
+![](1%20LCD.png)
+![](1%20Full.png)
+![](1%20Output.png)
 ### Code
 ```
 #include <LiquidCrystal.h>
@@ -55,9 +55,9 @@ void loop() {
 }
 ```
 ## Experiment B
-![[2 Close up.jpeg|266]]
-![[2 Full.png|268]]
-![[2 Output.png|266]]
+![](2%20Close%20up.jpeg)
+![](2%20Full.png)
+![](2%20Output.png)
 ### Code
 #### ESP32 connected to DHT
 ```
