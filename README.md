@@ -1,5 +1,5 @@
 # WANTAM
-![[Proof.jpeg]]
+![](Proof.jpeg)
 ## Group members
 1. 157769 Kariuki Darrel Kanyugo
 2. 152066 Owiro Shawn Ochieng
